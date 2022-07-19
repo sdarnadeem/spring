@@ -1,10 +1,10 @@
-package dev.nasyxnadeem.annotations;
+package dev.nasyxnadeem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConfiguringSpringWithJavaAnnotationsApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {

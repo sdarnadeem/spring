@@ -1,13 +1,13 @@
-package dev.nasyxnadeem.annotations;
+package dev.nasyxnadeem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ConfiguringSpringWithJavaAnnotationsApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ConfiguringSpringWithJavaAnnotationsApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
