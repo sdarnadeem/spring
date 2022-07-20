@@ -8,6 +8,17 @@ public class HomeController {
 
     @RequestMapping("/")
     public String showPage() {
-        return "main-menu.jsp";
+        return "main-menu";
     }
+
+    @RequestMapping("/show-form")
+    public String showForm() {
+        return "main-menu";
+    }
+
+    @RequestMapping("/process-form")
+    public String processForm() {
+        return "main-menu";
+    }
+
 }
