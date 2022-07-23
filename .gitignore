@@ -4,13 +4,8 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-
-/1.spring-starter/
-
-/2.Configuring-spring-with-java-annotations/
-/3.spring-config-with-java/
-/4.spring-mvc/
-/5.springboot/
+1.spring-starter/
+2.annotations/
 
 ### STS ###
 .apt_generated
