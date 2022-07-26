@@ -12,7 +12,8 @@ target/
 3. spring-config-with-java
 4.spring-mvc
 5.springboot
-rest-hibernate
+resthibernate
+requestparams
 
 
 ### STS ###
