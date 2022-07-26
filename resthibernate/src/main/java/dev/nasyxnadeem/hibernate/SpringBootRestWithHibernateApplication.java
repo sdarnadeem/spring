@@ -13,6 +13,7 @@ public class SpringBootRestWithHibernateApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootRestWithHibernateApplication.class, args);
+		// hdg
 	}
 
 }
