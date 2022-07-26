@@ -4,14 +4,6 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-
-/1.spring-starter/
-/2.annotations/
-/2.Configuring-spring-with-java-annotations/
-/3. spring-config-with-java/
-/4.spring-mvc/
-/5.springboot/
-
 ### STS ###
 .apt_generated
 .classpath
